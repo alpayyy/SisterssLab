@@ -1,0 +1,9 @@
+[submodule "libraryApp"]
+	path = libraryApp
+	url = https://github.com/alpayyy/libraryApp
+[submodule "hamburgerApp"]
+	path = hamburgerApp
+	url = https://github.com/alpayyy/hamburgerApp
+[submodule "CoinApp"]
+	path = CoinApp
+	url = https://github.com/alpayyy/CoinApp
